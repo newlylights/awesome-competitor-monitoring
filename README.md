@@ -97,6 +97,7 @@
 *Broader market analysis and competitive landscape tools.*
 
 - [Crunchbase](https://crunchbase.com) — Company funding, acquisition, and market data.
+- [GetAppNiche](https://getappniche.com/) — iOS App Store market intelligence for app revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [PitchBook](https://pitchbook.com) — Private market data and M&A intelligence.
 - [Owler](https://owler.com) — Company profiles and competitive intelligence.
 - [CB Insights](https://cbinsights.com) — Technology market intelligence and analytics.
