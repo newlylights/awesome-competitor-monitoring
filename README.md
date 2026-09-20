@@ -161,6 +161,7 @@
 - [BuiltWith Free](https://builtwith.com) — Basic technology profiling. [Free tier]
 
 ---
+- [Free Competitor Comparison Tool](https://sarvaiyaharsh30-eng.github.io/competitor-intelligence-automation-kit/free-competitor-comparison-tool.html) — Browser-based competitor comparison tool that turns structured competitor data into comparison tables locally in the browser. No signup required. [Free]
 
 ## Contributing
 
