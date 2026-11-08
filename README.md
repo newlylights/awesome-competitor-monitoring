@@ -65,6 +65,7 @@
 
 - [FollowEngine](https://followengine.com) — Automated website, pricing page, and changelog monitoring with alerts.
 - [BuiltWith](https://builtwith.com) — Discover what technology stack competitors use.
+- [EarlyLore](https://earlylore.com) — Research workspace to study real SaaS products, revenue signals, and public competitor changes to pricing, positioning and features. [Free]
 - [Wappalyzer](https://wappalyzer.com) — Technology profiler for competitor websites.
 - [Ghostery](https://ghostery.com) — Track competitor analytics and marketing tech stack.
 - [Prisync](https://prisync.com) — E-commerce competitor price tracking.
