@@ -57,6 +57,7 @@
 - [Moz](https://moz.com) — SEO tools including rank tracking and site audits.
 - [Serpstat](https://serpstat.com) — SEO platform with competitor keyword analysis.
 - [SpyFu](https://spyfu.com) — Competitor keyword and ad research.
+- [Vaneform](https://vaneform.com) — Free website traffic checker with monthly visits, trends, and source mix for competitor domains.
 - [Sistrix](https://sistrix.com) — SEO visibility monitoring with European market focus.
 
 ## Website & Pricing Monitoring
