@@ -110,6 +110,7 @@
 - [Battle Card Template](https://github.com/newlylights/followengine-templates) — Fill-in competitive battle card with objection handling. [Free]
 - [Competitor Analysis Template](https://github.com/newlylights/followengine-templates) — 6-part competitor analysis framework. [Free]
 - [SWOT Analysis Template](https://github.com/newlylights/followengine-templates) — Structured SWOT + TOWS matrix with action plan. [Free]
+- [TikTok Competitor Brief Workflow](https://github.com/DiamadeResearch/tiktok-research-brief-workflow) — CSV review-sheet template and a ready-to-use Apify Task for collecting dated TikTok source links and messages for a competitor brief.
 - [Competitor Tracking Spreadsheet](https://github.com/newlylights/followengine-templates) — CSV template for tracking multiple competitors. [Free]
 - [Porter's Five Forces Guide](https://github.com/newlylights/competitive-intelligence-wiki) — Comprehensive encyclopedia article. [Free]
 
